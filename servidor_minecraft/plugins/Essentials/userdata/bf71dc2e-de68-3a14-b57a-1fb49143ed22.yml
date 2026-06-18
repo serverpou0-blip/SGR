@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.213.120.228
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1781736479872
+  login: 1781736471797
+money: '0'
+last-account-name: sotitoyeye
+lastlocation:
+  world: 9a31c6e0-38c8-496a-a32b-5c17aba3b301
+  world-name: world
+  x: 2378.237500011921
+  y: 125.0
+  z: 2078.7121657613634
+  yaw: 107.24954223632812
+  pitch: 69.14996337890625
+logoutlocation:
+  world: 9a31c6e0-38c8-496a-a32b-5c17aba3b301
+  world-name: world
+  x: 2384.806570565117
+  y: 125.0
+  z: 2088.101585968051
+  yaw: -111.14994812011719
+  pitch: 33.1500129699707

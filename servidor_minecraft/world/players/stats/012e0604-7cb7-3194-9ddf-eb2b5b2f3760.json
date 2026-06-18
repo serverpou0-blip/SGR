@@ -1,0 +1,42 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:peony": 1,
+      "minecraft:lilac": 1
+    },
+    "minecraft:used": {
+      "minecraft:peony": 1
+    },
+    "minecraft:mined": {
+      "minecraft:rose_bush": 2,
+      "minecraft:lilac": 1,
+      "minecraft:large_fern": 2,
+      "minecraft:sunflower": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 2472,
+      "minecraft:walk_one_cm": 6236,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 1152,
+      "minecraft:damage_taken": 1162,
+      "minecraft:play_time": 8543,
+      "minecraft:jump": 300,
+      "minecraft:time_since_death": 2439,
+      "minecraft:sprint_one_cm": 23753,
+      "minecraft:fall_one_cm": 12050,
+      "minecraft:swim_one_cm": 1899,
+      "minecraft:total_world_time": 8543,
+      "minecraft:fly_one_cm": 66462,
+      "minecraft:walk_on_water_one_cm": 412,
+      "minecraft:sneak_time": 31,
+      "minecraft:deaths": 4
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1,
+      "minecraft:creeper": 1,
+      "minecraft:spider": 1,
+      "minecraft:zombie": 1
+    }
+  },
+  "DataVersion": 4790
+}

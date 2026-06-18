@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:chicken": 1
+    },
+    "minecraft:killed": {
+      "minecraft:chicken": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:chicken": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 930,
+      "minecraft:walk_one_cm": 493,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 1,
+      "minecraft:walk_under_water_one_cm": 56,
+      "minecraft:damage_taken": 60,
+      "minecraft:play_time": 930,
+      "minecraft:damage_dealt": 40,
+      "minecraft:jump": 31,
+      "minecraft:time_since_death": 930,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 2560,
+      "minecraft:fall_one_cm": 675,
+      "minecraft:swim_one_cm": 1054,
+      "minecraft:total_world_time": 930,
+      "minecraft:fly_one_cm": 5457,
+      "minecraft:walk_on_water_one_cm": 85
+    }
+  },
+  "DataVersion": 4790
+}

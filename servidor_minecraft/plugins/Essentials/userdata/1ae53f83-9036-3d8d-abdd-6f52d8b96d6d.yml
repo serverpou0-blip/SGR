@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.211.200.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1781735073566
+  login: 1781729137793
+money: '0'
+last-account-name: cevinosobretti
+logoutlocation:
+  world: 9a31c6e0-38c8-496a-a32b-5c17aba3b301
+  world-name: world
+  x: 1318.786026384118
+  y: 66.0
+  z: -1191.1326839860005
+  yaw: 34.85346603393555
+  pitch: 29.969146728515625
+lastlocation:
+  world: 9a31c6e0-38c8-496a-a32b-5c17aba3b301
+  world-name: world
+  x: 63.35742470449637
+  y: 73.0
+  z: -385.626480064672
+  yaw: -149.9798583984375
+  pitch: 89.16490936279297

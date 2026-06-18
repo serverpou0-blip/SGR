@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.197.113.61
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1781728337117
+  login: 1781811977201
+money: '0'
+last-account-name: .Spreen3126
+logoutlocation:
+  world: 9a31c6e0-38c8-496a-a32b-5c17aba3b301
+  world-name: world
+  x: -0.7811116
+  y: 71.0
+  z: 28.69998998807907
+  yaw: -51.6336669921875
+  pitch: -3.2787322998046875

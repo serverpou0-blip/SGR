@@ -1,0 +1,64 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 3,
+      "minecraft:time_since_rest": 10580,
+      "minecraft:walk_one_cm": 10758,
+      "minecraft:leave_game": 1,
+      "minecraft:mob_kills": 7,
+      "minecraft:damage_dealt": 550,
+      "minecraft:play_time": 10580,
+      "minecraft:jump": 89,
+      "minecraft:time_since_death": 10580,
+      "minecraft:sprint_one_cm": 11487,
+      "minecraft:fall_one_cm": 725,
+      "minecraft:total_world_time": 10580,
+      "minecraft:fly_one_cm": 10902
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 1,
+      "minecraft:stone_sword": 13,
+      "minecraft:wooden_axe": 18,
+      "minecraft:crafting_table": 2,
+      "minecraft:wooden_pickaxe": 17,
+      "minecraft:allium": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:pink_wool": 1,
+      "minecraft:oak_wood": 7,
+      "minecraft:oak_log": 13,
+      "minecraft:allium": 1,
+      "minecraft:cobblestone": 17,
+      "minecraft:brown_wool": 2,
+      "minecraft:white_wool": 1,
+      "minecraft:mutton": 5,
+      "minecraft:leather": 1,
+      "minecraft:crafting_table": 2,
+      "minecraft:beef": 6
+    },
+    "minecraft:mined": {
+      "minecraft:oak_leaves": 1,
+      "minecraft:oak_wood": 7,
+      "minecraft:crafting_table": 2,
+      "minecraft:oak_log": 13,
+      "minecraft:cobblestone": 10,
+      "minecraft:allium": 2,
+      "minecraft:stone": 7
+    },
+    "minecraft:killed": {
+      "minecraft:sheep": 4,
+      "minecraft:cow": 3
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 16,
+      "minecraft:stone_sword": 1,
+      "minecraft:wooden_axe": 1,
+      "minecraft:wooden_pickaxe": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:oak_planks": 80,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:crafting_table": 1
+    }
+  },
+  "DataVersion": 4790
+}

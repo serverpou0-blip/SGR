@@ -1,0 +1,215 @@
+[19:42:48] [ServerMain/INFO]: [bootstrap] Running Java 25 (OpenJDK 64-Bit Server VM 25.0.3+9-2-24.04.2-Ubuntu; Ubuntu null) on Linux 6.8.0-1052-azure (amd64)
+[19:42:48] [ServerMain/INFO]: [bootstrap] Loading Paper 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) for Minecraft 26.1.2
+[19:42:49] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:42:50] [ServerMain/INFO]: [PluginInitializerManager] Initialized 10 plugins
+[19:42:50] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (10):
+ - Essentials (2.22.0), Geyser-Spigot (2.10.1-SNAPSHOT), OpenInv (1.3), SimpleLogin (1.16.5), SkinsRestorer (15.12.3), TerraformGenerator (26.2.0), ViaBackwards (5.9.1), ViaVersion (5.9.1), WorldEdit (7.4.3+7515-78babeb), floodgate (2.2.5-SNAPSHOT (b132-5a72b6a))
+[19:42:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:42:56] [ServerMain/INFO]: Loaded 1515 recipes
+[19:42:56] [ServerMain/INFO]: Loaded 1617 advancements
+[19:42:56] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[19:42:56] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 545.1ms
+[19:42:58] [Server thread/INFO]: Starting minecraft server version 26.1.2
+[19:42:58] [Server thread/INFO]: Loading properties
+[19:42:58] [Server thread/INFO]: This server is running Paper version 26.1.2-60-main@b4682bf (2026-05-04T06:25:04Z) (Implementing API version 26.1.2.build.60-stable)
+[19:42:58] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:42:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:42:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:42:59] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:42:59] [Server thread/INFO]: Default game type: SURVIVAL
+[19:42:59] [Server thread/INFO]: Generating keypair
+[19:42:59] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:43:00] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:43:00] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[19:43:00] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.9.1
+[19:43:00] [Server thread/INFO]: [ViaVersion] ViaVersion 5.9.1 is now loaded. Registering protocol transformers and injecting...
+[19:43:01] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading block connection mappings ...
+[19:43:01] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[19:43:01] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[19:43:01] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.5-SNAPSHOT (b132-5a72b6a)
+[19:43:02] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[19:43:02] [Server thread/INFO]: [floodgate] Took 859ms to boot Floodgate
+[19:43:02] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.9.1
+[19:43:02] [Server thread/INFO]: [SimpleLogin] Loading server plugin SimpleLogin v1.16.5
+[19:43:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.12.3
+[19:43:02] [Server thread/INFO]: [OpenInv] Loading server plugin OpenInv v1.3
+[19:43:02] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v26.2.0
+[19:43:02] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.10.1-SNAPSHOT
+[19:43:03] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[19:43:03] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[19:43:03] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.22.0
+[19:43:03] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.4.3+7515-78babeb
+[19:43:03] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6cab0393]
+[19:43:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:43:03] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.12.3
+[19:43:04] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 26.1.2.
+[19:43:04] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[19:43:05] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:43:05] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v26.2.0
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer   |
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |-------------------|
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode  |
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +===================+
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.12.3
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 03cc9fd
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:43:05] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer or receive priority support? Become a supporter: https://skinsrestorer.net/pricing
+[19:43:05] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[19:43:05] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[19:43:05] [Server thread/INFO]: [TerraformGenerator] Detected version: 26.1.2, plugin will use Version.v26_1_2, packName: v26_1
+[19:43:05] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.4.3+7515-78babeb
+[19:43:05] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[19:43:06] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[19:43:06] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v26_1.PaperweightAdapter as the Bukkit adapter
+[19:43:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:43:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:43:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:43:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:43:06] [Server thread/INFO]: Preparing level "world"
+[19:43:07] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
+[19:43:07] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[19:43:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:overworld'...
+[19:43:07] [Server thread/INFO]: Preparing spawn area: 100%
+[19:43:07] [Server thread/INFO]: Prepared spawn area in 1 ms
+[19:43:07] [Server thread/INFO]: [TerraformGenerator] world loaded.
+[19:43:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_nether'...
+[19:43:07] [Server thread/INFO]: Prepared spawn area in 0 ms
+[19:43:07] [Server thread/INFO]: Loading 0 persistent chunks for level 'minecraft:the_end'...
+[19:43:07] [Server thread/INFO]: Prepared spawn area in 0 ms
+[19:43:07] [Server thread/INFO]: Done preparing level "world" (0.855s)
+[19:43:07] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.9.1
+[19:43:07] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 26.1-26.1.2 (775)
+[19:43:07] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.5-SNAPSHOT (b132-5a72b6a)
+[19:43:07] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.9.1
+[19:43:07] [Server thread/INFO]: [SimpleLogin] Enabling SimpleLogin v1.16.5
+[19:43:08] [Server thread/INFO]: [SimpleLogin] SimpleLogin enabled!
+[19:43:08] [Server thread/INFO]: [OpenInv] Enabling OpenInv v1.3
+[19:43:08] [Server thread/INFO]: 
+[19:43:08] [Server thread/INFO]:   ____  _____  ______ _   _   _____ _   _ __      __ 
+[19:43:08] [Server thread/INFO]:  / __ \|  __ \|  ____| \ | | |_   _| \ | |\ \    / / 
+[19:43:08] [Server thread/INFO]: | |  | | |__) | |__  |  \| |   | | |  \| | \ \  / /  
+[19:43:08] [Server thread/INFO]: | |  | |  ___/|  __| | . ` |   | | | . ` |  \ \/ /   
+[19:43:08] [Server thread/INFO]: | |__| | |    | |____| |\  |  _| |_| |\  |   \  /    
+[19:43:08] [Server thread/INFO]:  \____/|_|    |______|_| \_| |_____|_| \_|    \/     
+[19:43:08] [Server thread/INFO]:                 1.3 by INFIE03
+[19:43:08] [Server thread/INFO]: 
+[19:43:08] [Server thread/INFO]:   ✦ Platform:  Paper 26.1.2-60-b4682bf (MC: 26.1.2)
+[19:43:08] [Server thread/INFO]:   ✦ Java:      25.0.3
+[19:43:08] [Server thread/INFO]:   ✦ Storage:   SQLITE
+[19:43:08] [Server thread/INFO]:   ✦ Language:  English
+[19:43:08] [Server thread/INFO]:   ✦ Auto-Save: ENABLED
+[19:43:08] [Server thread/INFO]:   ✦ Snapshots: ENABLED
+[19:43:08] [Server thread/INFO]: 
+[19:43:08] [Server thread/INFO]:   [OpenInv] Successfully enabled plugin modules.
+[19:43:08] [Server thread/INFO]: 
+[19:43:08] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.10.1-SNAPSHOT
+[19:43:08] [ForkJoinPool.commonPool-worker-1/INFO]: [SimpleLogin] Plugin is up to date (1.16.5)
+[19:43:09] [Server thread/INFO]: [Essentials] Enabling Essentials v2.22.0
+[19:43:09] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[19:43:09] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected Paper 1.13+ Tile Entity Provider as the provider for TileEntityProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[19:43:09] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[19:43:10] [Server thread/INFO]: [Essentials] Loaded 46312 items from items.json.
+[19:43:10] [Server thread/INFO]: [Essentials] Using locale en
+[19:43:10] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[19:43:10] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[19:43:10] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[19:43:10] [Server thread/INFO]: [spark] Starting background profiler...
+[19:43:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:43:11] [Server thread/INFO]: [Geyser-Spigot] 
+[19:43:11] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.10.1-b1165 (git-master-a09c335)
+[19:43:11] [Server thread/INFO]: [Geyser-Spigot] 
+[19:43:11] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:43:14] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[19:43:14] [Server thread/INFO]: [Geyser-Spigot] Done (3.048s)! Run /geyser help for help!
+[19:43:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:43:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19:43:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19:43:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:43:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:43:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:43:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:43:14] [Server thread/INFO]: Running delayed init tasks
+[19:43:14] [Craft Scheduler Thread - 0 - Essentials/INFO]: [Essentials] Fetching version information...
+[19:43:14] [Craft Scheduler Thread - 2 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[19:43:14] [Server thread/INFO]: Done (26.710s)! For help, type "help"
+[19:43:14] [Paper Async Task Handler Thread - 1/INFO]: *** Currently you are 11 build(s) behind ***
+[19:43:14] [Paper Async Task Handler Thread - 1/INFO]: *** It is highly recommended to download the latest build from https://papermc.io/downloads/paper ***
+[19:44:16] [GeyserServerChild-4-1/INFO]: [Geyser-Spigot] Player connected with username ArtyIsland80902 (1001)
+[19:44:16] [localSession-7-2/INFO]: [Geyser-Spigot] ArtyIsland80902 (logged in as: ArtyIsland80902) has connected to the Java server
+[19:44:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .ArtyIsland80902 joined (UUID: 00000000-0000-0000-0009-01f25ea040d9)
+[19:44:17] [Server thread/INFO]: .ArtyIsland80902 joined the game
+[19:44:18] [Server thread/INFO]: .ArtyIsland80902[/127.105.217.148:0] logged in with entity id 16 at ([minecraft:overworld]-39.2885, 120.0, -1201.9017)
+[19:44:20] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0b057d7c-cf39-4e79-9a09-7df8249f4575, mapped to Pig['Pig'/154, uuid='0b057d7c-cf39-4e79-9a09-7df8249f4575', l='ServerLevel[world]', x=54.22, y=84.00, z=-1311.49, cpos=[3, -82], tl=0, v=true], can't add Pig['Pig'/164, uuid='0b057d7c-cf39-4e79-9a09-7df8249f4575', l='ServerLevel[world]', x=56.29, y=84.00, z=-1319.26, cpos=[3, -83], tl=0, v=false]
+[19:44:20] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 63b03a39-9329-4bcc-b46a-f2ebe6d7c1c7, mapped to Squid['Squid'/157, uuid='63b03a39-9329-4bcc-b46a-f2ebe6d7c1c7', l='ServerLevel[world]', x=7.50, y=58.00, z=-1338.50, cpos=[0, -84], tl=0, v=true], can't add Squid['Squid'/177, uuid='63b03a39-9329-4bcc-b46a-f2ebe6d7c1c7', l='ServerLevel[world]', x=3.49, y=59.96, z=-1345.34, cpos=[0, -85], tl=0, v=false]
+[19:44:21] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9705de48-2c1d-42c1-ad1e-5a5c4ec06d29, mapped to Bat['Bat'/161, uuid='9705de48-2c1d-42c1-ad1e-5a5c4ec06d29', l='ServerLevel[world]', x=-18.25, y=28.00, z=-1351.92, cpos=[-2, -85], tl=0, v=true], can't add Bat['Bat'/194, uuid='9705de48-2c1d-42c1-ad1e-5a5c4ec06d29', l='ServerLevel[world]', x=-15.53, y=29.77, z=-1362.06, cpos=[-1, -86], tl=0, v=false]
+[19:44:21] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9b31b197-4513-420f-977c-5c84b0981f25, mapped to Bat['Bat'/165, uuid='9b31b197-4513-420f-977c-5c84b0981f25', l='ServerLevel[world]', x=-7.98, y=27.37, z=-1350.81, cpos=[-1, -85], tl=0, v=true], can't add Bat['Bat'/195, uuid='9b31b197-4513-420f-977c-5c84b0981f25', l='ServerLevel[world]', x=-2.58, y=22.01, z=-1361.13, cpos=[-1, -86], tl=0, v=false]
+[19:44:21] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 80e346e0-a9ab-4886-b06a-b8f008008431, mapped to Slime['Slime'/169, uuid='80e346e0-a9ab-4886-b06a-b8f008008431', l='ServerLevel[world]', x=-5.81, y=-18.00, z=-1353.28, cpos=[-1, -85], tl=0, v=true], can't add Slime['Slime'/199, uuid='80e346e0-a9ab-4886-b06a-b8f008008431', l='ServerLevel[world]', x=6.85, y=-17.34, z=-1360.96, cpos=[0, -86], tl=0, v=false]
+[19:44:22] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 0faac23c-894a-4c80-aebb-230d5bb8cd3b, mapped to Salmon['Salmon'/223, uuid='0faac23c-894a-4c80-aebb-230d5bb8cd3b', l='ServerLevel[world]', x=124.25, y=58.03, z=-1308.14, cpos=[7, -82], tl=0, v=true], can't add Salmon['Salmon'/242, uuid='0faac23c-894a-4c80-aebb-230d5bb8cd3b', l='ServerLevel[world]', x=126.36, y=56.00, z=-1315.25, cpos=[7, -83], tl=0, v=false]
+[19:44:22] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 9413f7ff-1f0c-4860-ad6d-cadc18e2fd05, mapped to Salmon['Salmon'/225, uuid='9413f7ff-1f0c-4860-ad6d-cadc18e2fd05', l='ServerLevel[world]', x=124.42, y=57.47, z=-1309.57, cpos=[7, -82], tl=0, v=true], can't add Salmon['Salmon'/243, uuid='9413f7ff-1f0c-4860-ad6d-cadc18e2fd05', l='ServerLevel[world]', x=124.46, y=56.00, z=-1314.03, cpos=[7, -83], tl=0, v=false]
+[19:44:22] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 6b641873-af0c-410d-93e9-ba1d11604f0c, mapped to Salmon['Salmon'/222, uuid='6b641873-af0c-410d-93e9-ba1d11604f0c', l='ServerLevel[world]', x=124.29, y=58.00, z=-1308.84, cpos=[7, -82], tl=0, v=true], can't add Salmon['Salmon'/244, uuid='6b641873-af0c-410d-93e9-ba1d11604f0c', l='ServerLevel[world]', x=125.59, y=56.50, z=-1313.31, cpos=[7, -83], tl=0, v=false]
+[19:44:26] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: f8ea7c23-5a8f-4aa8-8760-c29cb0cc5b89, mapped to Cow['Cow'/346, uuid='f8ea7c23-5a8f-4aa8-8760-c29cb0cc5b89', l='ServerLevel[world]', x=141.56, y=69.00, z=-1391.46, cpos=[8, -87], tl=0, v=true], can't add Cow['Cow'/372, uuid='f8ea7c23-5a8f-4aa8-8760-c29cb0cc5b89', l='ServerLevel[world]', x=139.17, y=67.00, z=-1401.82, cpos=[8, -88], tl=0, v=false]
+[19:44:28] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: a9d30aae-684b-4851-a277-5999f761f561, mapped to Cow['Cow'/437, uuid='a9d30aae-684b-4851-a277-5999f761f561', l='ServerLevel[world]', x=173.77, y=67.00, z=-1413.17, cpos=[10, -89], tl=0, v=true], can't add Cow['Cow'/440, uuid='a9d30aae-684b-4851-a277-5999f761f561', l='ServerLevel[world]', x=151.83, y=67.00, z=-1427.17, cpos=[9, -90], tl=0, v=false]
+[19:44:30] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 85974766-46ca-4209-8238-36def29d6fd0, mapped to Pig['Pig'/482, uuid='85974766-46ca-4209-8238-36def29d6fd0', l='ServerLevel[world]', x=195.23, y=66.00, z=-1415.27, cpos=[12, -89], tl=0, v=true], can't add Pig['Pig'/499, uuid='85974766-46ca-4209-8238-36def29d6fd0', l='ServerLevel[world]', x=192.66, y=67.00, z=-1430.50, cpos=[12, -90], tl=0, v=false]
+[19:44:30] [Server thread/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.level.entity.EntityLookup] Entity uuid already exists: 8de45d12-5fb8-42df-a8b9-0b79cd28bd45, mapped to Pig['Pig'/487, uuid='8de45d12-5fb8-42df-a8b9-0b79cd28bd45', l='ServerLevel[world]', x=152.16, y=74.00, z=-1471.21, cpos=[9, -92], tl=0, v=true], can't add Pig['Pig'/501, uuid='8de45d12-5fb8-42df-a8b9-0b79cd28bd45', l='ServerLevel[world]', x=159.84, y=74.00, z=-1475.11, cpos=[9, -93], tl=0, v=false]
+[19:44:37] [User Authenticator #0/INFO]: UUID of player SebasyTU_ is 77a390da-81bb-3a9a-83b6-98e9f9115325
+[19:44:39] [Server thread/INFO]: SebasyTU_ joined the game
+[19:44:39] [Server thread/INFO]: SebasyTU_[/127.155.172.228:57885] logged in with entity id 559 at ([minecraft:overworld]2390.702228552037, 125.0, 2086.7757449360925)
+[19:44:43] [Server thread/INFO]: .ArtyIsland80902 issued server command: /login blackblizzard
+[19:44:46] [Server thread/INFO]: SebasyTU_ issued server command: /login Guadyreo00
+[19:45:36] [Server thread/INFO]: SebasyTU_ issued server command: //set 0
+[19:45:39] [Server thread/WARN]: .ArtyIsland80902 moved too quickly! -1.3307729880790689,1.1767499999999984,13.405999999999949
+[19:46:06] [Server thread/INFO]: SebasyTU_ lost connection: Disconnected
+[19:46:06] [Server thread/INFO]: SebasyTU_ left the game
+[19:46:15] [GeyserServerChild-4-2/INFO]: [Geyser-Spigot] Player connected with username Spreen3126 (975)
+[19:46:15] [localSession-7-3/INFO]: [Geyser-Spigot] Spreen3126 (logged in as: Spreen3126) has connected to the Java server
+[19:46:17] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Spreen3126 joined (UUID: 00000000-0000-0000-0009-01fce5827242)
+[19:46:17] [Server thread/INFO]: .Spreen3126 joined the game
+[19:46:17] [Server thread/INFO]: .Spreen3126[/127.197.113.61:0] logged in with entity id 1917 at ([minecraft:overworld]-0.7811116, 71.0, 28.69998998807907)
+[19:46:34] [Async Chat Thread - #1/INFO]: [Not Secure] <~Eythan> gey
+[19:46:38] [Async Chat Thread - #1/INFO]: [Not Secure] <~Eythan> hdpt
+[19:46:59] [Server thread/INFO]: .Spreen3126 issued server command: /login 132451132451
+[19:48:04] [Server thread/INFO]: .Spreen3126 has made the advancement [Stone Age]
+[19:49:06] [Server thread/INFO]: .Spreen3126 has made the advancement [Getting an Upgrade]
+[19:49:11] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /msg .Spreen3126 derek cuanto tiempo vas jugar?
+[19:49:11] [Server thread/INFO]: [me -> .Spreen3126] derek cuanto tiempo vas jugar?
+[19:49:33] [Async Chat Thread - #2/INFO]: [Not Secure] <.Spreen3126> como una media hora o una hora
+[19:50:40] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /msg .Spreen3126 a menuda mrd
+[19:50:40] [Server thread/INFO]: [me -> .Spreen3126] a menuda mrd
+[19:50:56] [Async Chat Thread - #4/INFO]: [Not Secure] <.Spreen3126> encontré una oveja rosada
+[19:51:11] [Async Chat Thread - #4/INFO]: [Not Secure] <~Eythan> me vale verga hdpt
+[19:51:19] [Async Chat Thread - #4/INFO]: [Not Secure] <.Spreen3126> callate negro
+[19:51:27] [Async Chat Thread - #4/INFO]: [Not Secure] <.Spreen3126> ven meda te voy a matra
+[19:51:29] [Async Chat Thread - #4/INFO]: [Not Secure] <.Spreen3126> matar
+[19:51:33] [Async Chat Thread - #4/INFO]: [Not Secure] <~Eythan> me emputas
+[19:51:37] [Async Chat Thread - #4/INFO]: [Not Secure] <~Eythan> escribi bien
+[19:51:44] [Async Chat Thread - #4/INFO]: [Not Secure] <.Spreen3126> chumape negro
+[19:51:53] [Async Chat Thread - #4/INFO]: [Not Secure] <~Eythan> tu vagina?
+[19:52:10] [Async Chat Thread - #4/INFO]: [Not Secure] <.Spreen3126> no mi polla

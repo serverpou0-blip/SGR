@@ -1,0 +1,85 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1852,
+      "minecraft:walk_one_cm": 21705,
+      "minecraft:leave_game": 1,
+      "minecraft:walk_under_water_one_cm": 1309,
+      "minecraft:mob_kills": 2,
+      "minecraft:damage_taken": 1948,
+      "minecraft:play_time": 16076,
+      "minecraft:damage_dealt": 203,
+      "minecraft:jump": 734,
+      "minecraft:time_since_death": 1823,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 59145,
+      "minecraft:fall_one_cm": 29165,
+      "minecraft:total_world_time": 16076,
+      "minecraft:swim_one_cm": 1724,
+      "minecraft:fly_one_cm": 194259,
+      "minecraft:walk_on_water_one_cm": 1107,
+      "minecraft:crouch_one_cm": 22,
+      "minecraft:sneak_time": 13,
+      "minecraft:deaths": 6
+    },
+    "minecraft:killed": {
+      "minecraft:sheep": 2
+    },
+    "minecraft:mined": {
+      "minecraft:tall_grass": 4,
+      "minecraft:bush": 3,
+      "minecraft:dandelion": 2,
+      "minecraft:pink_petals": 10,
+      "minecraft:sunflower": 1,
+      "minecraft:peony": 5,
+      "minecraft:short_grass": 6,
+      "minecraft:cornflower": 1,
+      "minecraft:rose_bush": 1,
+      "minecraft:sweet_berry_bush": 1,
+      "minecraft:lilac": 5,
+      "minecraft:large_fern": 10,
+      "minecraft:dead_bush": 2,
+      "minecraft:allium": 2,
+      "minecraft:azure_bluet": 1,
+      "minecraft:white_tulip": 2
+    },
+    "minecraft:used": {
+      "minecraft:sweet_berries": 3,
+      "minecraft:lilac": 4,
+      "minecraft:cornflower": 1,
+      "minecraft:pink_petals": 22,
+      "minecraft:brown_wool": 1,
+      "minecraft:azure_bluet": 1,
+      "minecraft:dandelion": 1,
+      "minecraft:white_tulip": 2,
+      "minecraft:allium": 1,
+      "minecraft:sunflower": 1,
+      "minecraft:peony": 4
+    },
+    "minecraft:picked_up": {
+      "minecraft:sweet_berries": 7,
+      "minecraft:stick": 2,
+      "minecraft:brown_wool": 1,
+      "minecraft:sunflower": 1,
+      "minecraft:white_tulip": 2,
+      "minecraft:azure_bluet": 1,
+      "minecraft:lilac": 4,
+      "minecraft:allium": 1,
+      "minecraft:dandelion": 1,
+      "minecraft:wheat_seeds": 1,
+      "minecraft:peony": 4,
+      "minecraft:mutton": 1,
+      "minecraft:cornflower": 1,
+      "minecraft:pink_petals": 22
+    },
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 2,
+      "minecraft:creeper": 2,
+      "minecraft:zombie": 1
+    }
+  },
+  "DataVersion": 4790
+}

@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.93.231.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1781653319579
+  login: 1781651011350
+money: '0'
+last-account-name: Lunar
+lastlocation:
+  world: 9a31c6e0-38c8-496a-a32b-5c17aba3b301
+  world-name: world
+  x: -5.504091355438502
+  y: 124.0
+  z: -1201.300000011921
+  yaw: -15.60662841796875
+  pitch: 14.249937057495117
+nickname: Arturo
+logoutlocation:
+  world: 9a31c6e0-38c8-496a-a32b-5c17aba3b301
+  world-name: world
+  x: -8.068110897024912
+  y: 124.0
+  z: -1192.3643103797938
+  yaw: -90.3085708618164
+  pitch: 80.4001235961914

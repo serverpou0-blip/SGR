@@ -1,0 +1,170 @@
+# ==========================================================
+#                  OpenInv Configuration
+#      Advanced Inventory Management for Minecraft
+# ==========================================================
+
+# ----------------------------------------------------------
+# General Settings
+# ----------------------------------------------------------
+
+# Enable debug mode to see detailed logs in the console.
+# Useful for troubleshooting issues or reporting bugs.
+debug: false
+
+# Enable metrics to send anonymous usage data to bStats.
+# This helps the developer understand how the plugin is used.
+metrics: true
+
+# Check for updates on startup.
+# It is recommended to keep this enabled to stay up-to-date.
+update-checks: true
+
+# The maximum number of historical snapshots to keep per player.
+# Older snapshots will be automatically removed.
+history-limit: 10
+
+# Automatically clean up old data to keep the database small.
+auto-cleanup: true
+
+# Interval in seconds for the auto-cleanup task.
+# Default: 3600 (1 hour)
+cleanup-interval: 3600
+
+# Save player data when the server stops or reloads.
+save-on-quit: true
+
+# ----------------------------------------------------------
+# Permissions & Vault
+# ----------------------------------------------------------
+permissions:
+  # Use Vault for permission management if available.
+  use-vault: true
+  # The default group to assign if no group is found.
+  default-group: "default"
+
+# ----------------------------------------------------------
+# Storage Settings
+# ----------------------------------------------------------
+storage:
+  # The type of database to use.
+  # Options: 'sqlite' (local file) or 'mysql' (external database).
+  type: "sqlite"
+  
+  # Settings for SQLite (if type is set to sqlite)
+  sqlite:
+    filename: "database.db"
+  
+  # Settings for MySQL (if type is set to mysql)
+  mysql:
+    host: "localhost"
+    port: 3306
+    database: "openinv"
+    username: "root"
+    password: ""
+    table-prefix: "openinv_"
+    use-ssl: false
+
+# ----------------------------------------------------------
+# Performance Tuning
+# ----------------------------------------------------------
+performance:
+  # Duration in seconds to cache player data in memory.
+  cache-duration: 300
+  # Load data asynchronously to prevent server lag.
+  async-loading: true
+
+# ----------------------------------------------------------
+# Message Settings
+# ----------------------------------------------------------
+messages:
+  # Show a welcome message to admins when they join.
+  # This message lists available commands.
+  admin_welcome_enabled: true
+
+# ----------------------------------------------------------
+# GUI Layout Settings
+# Customize the inventory editor interface.
+# ----------------------------------------------------------
+gui-settings:
+  # Settings for the main inventory editor
+  inventory:
+    title: "§eEditing: §b%player%"
+    size: 54
+    # Slot mappings (Do not change unless you know what you are doing)
+    slots:
+      main: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35]
+      armor: [45, 46, 47, 48]
+      filler: [36, 37, 38, 39, 40, 41, 42, 43, 44, 50]
+      offhand: 49
+    buttons:
+      enderchest: 51
+      clear: 52
+      close: 53
+  
+  # Settings for the ender chest editor
+  enderchest:
+    title: "§5Ender Chest: §b%player%"
+    size: 36
+    slots:
+      main: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
+      filler: [27, 28, 29, 30, 32, 33, 34, 35]
+    buttons:
+      close: 31
+
+# ----------------------------------------------------------
+# Logging System
+# Track admin actions for accountability.
+# ----------------------------------------------------------
+logging:
+  enabled: true
+  format: "[%time%] %admin% %action% %target%'s inventory"
+  destinations: [console, file]
+
+# ----------------------------------------------------------
+# Auto-Save System
+# Periodically save player inventories to the database.
+# ----------------------------------------------------------
+auto-save-inventory:
+  enabled: true
+  # How often to save in minutes.
+  interval-minutes: 10
+  # Maximum number of auto-saves to keep.
+  max-snapshots: 3
+  # Send a message to the player when their inventory is auto-saved.
+  notify-on-save: false
+  # Log auto-saves to the console.
+  log-to-console: false
+
+# ----------------------------------------------------------
+# Death Snapshots
+# Automatically save inventory when a player dies.
+# ----------------------------------------------------------
+death-snapshots:
+  enabled: true
+  # Maximum number of death snapshots to keep.
+  max-snapshots: 5
+  log-to-console: false
+
+# ----------------------------------------------------------
+# Notifications
+# Notify players when admins edit their inventory.
+# ----------------------------------------------------------
+notify:
+   offline-update:
+      # Notify player if their inventory was changed while offline upon joining.
+      inventory: false
+      # Notify player if their ender chest was changed while offline upon joining.
+      enderchest: false
+
+# Deprecated setting (use history-limit above)
+history-size: 10
+
+# ----------------------------------------------------------
+# Shulker Box Preview
+# Settings for viewing Shulker Box contents.
+# ----------------------------------------------------------
+shulker-preview:
+  enabled: true
+  # Options: 'GUI' (open a virtual inventory) or 'LORE' (show contents in item tooltip)
+  type: "GUI"
+  count-format: "&7Contains &e%count% &7stack(s)"

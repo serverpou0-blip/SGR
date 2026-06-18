@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+flymode: false
+muted: false
+jailed: false
+ip-address: 127.98.141.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1781652467889
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1781652635644
+  login: 1781650877329
+money: '0'
+last-account-name: RUSIECAT
+lastlocation:
+  world: 9a31c6e0-38c8-496a-a32b-5c17aba3b301
+  world-name: world
+  x: 2366.0627474212242
+  y: 68.0
+  z: 1855.0456542604607
+  yaw: -158.25003051757812
+  pitch: 36.45000457763672
+logoutlocation:
+  world: 9a31c6e0-38c8-496a-a32b-5c17aba3b301
+  world-name: world
+  x: 2367.4159888973973
+  y: 64.0
+  z: 1854.902378936335
+  yaw: 178.79991149902344
+  pitch: 44.10000991821289
